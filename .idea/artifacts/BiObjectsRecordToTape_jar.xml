@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BiObjectsRecordToTape:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BiObjectsRecordToTape_jar</output-path>
+    <root id="archive" name="BiObjectsRecordToTape.jar">
+      <element id="module-output" name="BiObjectsRecordToTape" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sample/jsch-0.1.55.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
